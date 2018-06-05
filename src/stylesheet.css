@@ -1,0 +1,18 @@
+:root {
+  font-size: 16px;
+}
+
+.input-area {
+  margin-bottom: 1.5em;
+}
+
+.input-area__input {
+  resize: none;
+}
+
+.solution {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  padding: 0.2em;
+  margin: 0.5em 0;
+}
